@@ -187,7 +187,7 @@ Het geluid afzetten
 4. Retourner à l écran d accueil (niet-foutief)
 
 ```
-terugkeren naar het startscherm
+terug naar de homepage gaan
 ```
 
 5. Finir le jeu
@@ -205,13 +205,13 @@ Een spel maken
 7. Envoyer une information 
 
 ```
-Een informatie sturen
+Een informatie opsturen
 ```
 
-8. Démarrer une nouvelle partie (nieuwe ipv nieuw)
+8. Démarrer une nouvelle partie 
 
 ```
-Een nieuwe spel starten 
+Een nieuw spel starten 
 ```
 
 9. Synchroniser les données
@@ -260,7 +260,7 @@ Op een knopje klikken
 16. Arriver à l'écran de jeu
 
 ```
-op het spelscherm aankomen 
+op het spelscherm toekomen 
 ```
 
 17. Sélectionner un jeu 
