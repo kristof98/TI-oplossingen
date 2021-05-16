@@ -131,7 +131,7 @@ indépendant
 18. Ainis, ... (view) et le modèle peuvent être réutilisés.
 
 ```
-vue
+la vue
 ```
 
 19. Si tout est indépendant, on peut ... (delen) les tâches.
